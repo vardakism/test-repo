@@ -1,0 +1,1 @@
+plot(density(rbeta(1000,2,1)))
